@@ -4,7 +4,7 @@ I'm Thomas Vaca, a Software Engineering Student! I use my GitHub to save my univ
 
 Here are my Stats at GitHub:
 
-<img aling-item="center" src="https://github-readme-stats.vercel.app/api?username=ThomXasGshow_icons=true&theme=dark"/>
+<img aling-item="center" src="https://github-readme-stats.vercel.app/api?username=ThomXasG&show_icons=true&theme=dark"/>
 
 ## What languages do i use?
 
