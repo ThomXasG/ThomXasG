@@ -5,7 +5,7 @@ I'm Thomas Vaca, a Software Engineering Student! I use my GitHub to save my univ
 Here are my Stats at GitHub:
 
 <img aling-item="center" src="https://github-readme-stats.vercel.app/api?username=ThomXasG"/>
-<img aling-item="center" src="https://github.com/ThomXasG/github-readme-stats"/>
+[![ThomXasG's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomXasG)](https://github.com/ThomXasG/github-readme-stats)
 
 ## What languages do i use?
 
