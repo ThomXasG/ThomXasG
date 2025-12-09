@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-I'm Thomas Vaca, a Software Engineering Student! I use my GitHub to save my university proyects and homeworks.
+I'm Thomas Vaca, a Software Engineering Student! I use my GitHub to save my university projects and homeworks.
 
 Here are my Stats at GitHub:
 
@@ -13,7 +13,7 @@ Here are my Stats at GitHub:
 
 ## What IDE's do I use?
 
-I use a couple IDE's for programming in differentns languages depending the proyect
+I use a couple IDE's for programming in differentns languages depending the project
 
 Here are some of them:
 
